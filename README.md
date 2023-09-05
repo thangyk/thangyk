@@ -1,25 +1,16 @@
-### Hi there 👋
+<div align="center"> 
 
-<!--
-**thangyk/thangyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=000000&height=150&section=header&text=thangyk&fontColor=fefcaa&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-
+  <br/>
+  
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/Intellij-000000?style=for-the-badge&logo=IntellijIDEA&logoColor=white">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thangyk)](https://github.com/thangyk/github-readme-stats)
+  <br/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinyk950)](https://solved.ac/jinyk950)
+
+  <br/>
+
+</div>
