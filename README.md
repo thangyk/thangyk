@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thangyk)](https://github.com/thangyk/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=thangyk)](https://solved.ac/thangyk)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jinyk950)](https://solved.ac/jinyk950)
